@@ -2,13 +2,13 @@
 Converts Ascii files to dfs2 format 
 
 This script converts ascii file created by the Qgis model file builder into dfs2 and will merge the Infiltration components into a single dfs2 file named Infiltration.
-In order to work, the input ascii files need to be named with at least the three first letters of the following names (First letter must be upper case):
-	- Infiltration
-	- Leakage
-	- Depth below ground
-	- Initial water content
-	- Rainfall
-	- Manning
+In order to work, the input ascii files need to be named with at least the three first letters of the following names (First letter must be upper case): /n 
+	- Infiltration /n
+	- Leakage /n
+	- Depth below ground /n
+	- Initial water content /n
+	- Rainfall /n
+	- Manning /n
 	
 The Dfs2 files will be saved in the same folder.
 
