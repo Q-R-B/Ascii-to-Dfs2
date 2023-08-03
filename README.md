@@ -10,6 +10,7 @@ In order to work, the input ascii files need to be named with at least the three
 - Manning
 	
 The Dfs2 files will be saved in the same folder.
+The Dfs2 files are created with https://github.com/DHI/mikeio
 
 After running the script, the folder should looks something like:
 
