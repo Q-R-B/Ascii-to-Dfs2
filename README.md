@@ -13,5 +13,6 @@ In order to work, the input ascii files need to be named with at least the three
 The Dfs2 files will be saved in the same folder.
 
 After running the script, the folder should looks something like:
+
 ![image](https://github.com/Q-R-B/Ascii-to-Dfs2/assets/103583383/97c509da-67db-4636-9a07-29b419f5995b)
 
